@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercício 01 For  Soma dos Números Pares", "Exercício 01 For  Soma dos Números Pares.csproj", "{516EBCB4-33D9-46E2-B861-A30F4A2E908B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{516EBCB4-33D9-46E2-B861-A30F4A2E908B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{516EBCB4-33D9-46E2-B861-A30F4A2E908B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{516EBCB4-33D9-46E2-B861-A30F4A2E908B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{516EBCB4-33D9-46E2-B861-A30F4A2E908B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85E56ED1-4581-4CA2-9385-26FBB6DEF4DF}
+	EndGlobalSection
+EndGlobal

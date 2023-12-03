@@ -1,0 +1,7 @@
+C:\Users\Ornare\source\repos\Exercício 01 For  Soma dos Números Pares\bin\Debug\Exercício 01 For  Soma dos Números Pares.exe.config
+C:\Users\Ornare\source\repos\Exercício 01 For  Soma dos Números Pares\bin\Debug\Exercício 01 For  Soma dos Números Pares.exe
+C:\Users\Ornare\source\repos\Exercício 01 For  Soma dos Números Pares\bin\Debug\Exercício 01 For  Soma dos Números Pares.pdb
+C:\Users\Ornare\source\repos\Exercício 01 For  Soma dos Números Pares\obj\Debug\Exercício 01 For  Soma dos Números Pares.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Exercício 01 For  Soma dos Números Pares\obj\Debug\Exercício 01 For  Soma dos Números Pares.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Exercício 01 For  Soma dos Números Pares\obj\Debug\Exercício 01 For  Soma dos Números Pares.exe
+C:\Users\Ornare\source\repos\Exercício 01 For  Soma dos Números Pares\obj\Debug\Exercício 01 For  Soma dos Números Pares.pdb
